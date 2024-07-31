@@ -1,0 +1,37 @@
+<page>
+    <title>Ahmed Shiyam</title>
+    <ns>0</ns>
+    <id>75379077</id>
+    <revision>
+      <timestamp>2023-11-22T07:53:45Z</timestamp>
+      <contributor>
+        <username>Moondragon21</username>
+      </contributor>
+      <comment>Moondragon21 moved page [[Ahmed Shiyam]] to [[Ahmed Shiyam (major general)]]: Specific</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" xml:space="preserve">#REDIRECT [[Ahmed Shiyam (major general)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}</text>
+      <sha1>gzp609kb1rbfzop2lmxcm7murwfrfln</sha1>
+    </revision>
+    <revision>
+      <parentid>1186309837</parentid>
+      <timestamp>2023-12-04T12:44:13Z</timestamp>
+      <contributor>
+        <username>Wikishovel</username>
+      </contributor>
+      <comment>moved content from [[Ahmed Shiyam (disambiguation)]], see that page's history for attribution. [[WP:PRIMARYTOPIC]] is unclear.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" xml:space="preserve">'''Ahmed Shiyam''' may refer to:
+
+*[[Ahmed Shiyam (major general)]] Major General
+*[[Ahmed Shiyam (minister)]] Fisheries Minister of the Maldives
+
+{{hndis|Shiyam, Ahmed}}</text>
+      <sha1>fqftwb4gvudus09dn0dqtih995b5r5l</sha1>
+    </revision>
+  </page>

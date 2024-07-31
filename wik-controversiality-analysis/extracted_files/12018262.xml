@@ -1,0 +1,30 @@
+<page>
+    <title>Mohamed Saeed</title>
+    <ns>0</ns>
+    <id>12018262</id>
+    <redirect title="Mohammed Said" />
+    <revision>
+      <timestamp>2007-06-30T08:17:53Z</timestamp>
+      <contributor>
+        <username>Meco</username>
+      </contributor>
+      <comment>#REDIRECT [[Mohammed Said (disambiguation)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" xml:space="preserve">#REDIRECT [[Mohammed Said (disambiguation)]]</text>
+      <sha1>nwyggbm92pn79l15tcvpfg0zmrpuh56</sha1>
+    </revision>
+    <revision>
+      <parentid>141564322</parentid>
+      <timestamp>2007-07-31T17:17:08Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;Mohammed Said (disambiguation)&quot; +&quot;Mohammed Said&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" xml:space="preserve">#REDIRECT [[Mohammed Said]]</text>
+      <sha1>3hqpzsanqleb7caqm6n4urmovv058sb</sha1>
+    </revision>
+  </page>
